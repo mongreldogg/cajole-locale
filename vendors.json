@@ -1,0 +1,3 @@
+{
+    "cajole-locale": ["components/locale/localization.bundle.php", "/bundles/modules"]
+}
